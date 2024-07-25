@@ -43,6 +43,7 @@
 		1223BC8327EA89F0000AA46D /* Composer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Composer.swift; sourceTree = "<group>"; };
 		1223BC8727EA8BF1000AA46D /* Period.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Period.swift; sourceTree = "<group>"; };
 		122E678327EE57C000CEE64B /* WorkSearchModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkSearchModel.swift; sourceTree = "<group>"; };
+		1244BB112C51FAC7006426C1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		125A479927FCC2EB003C5C3D /* WorkChosen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkChosen.swift; sourceTree = "<group>"; };
 		125A479B27FCC834003C5C3D /* WorkChosenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkChosenModel.swift; sourceTree = "<group>"; };
 		125A479D27FCD13D003C5C3D /* AlbumRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumRow.swift; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 		1223BC6727EA890F000AA46D = {
 			isa = PBXGroup;
 			children = (
+				1244BB112C51FAC7006426C1 /* README.md */,
 				1223BC7227EA890F000AA46D /* SongSearch2 */,
 				1223BC7127EA890F000AA46D /* Products */,
 			);
